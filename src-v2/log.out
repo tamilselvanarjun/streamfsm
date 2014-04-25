@@ -1,0 +1,1 @@
+gcc -g -o .obj/graphutils.o  -c graphutils.cc -I../../include -I/home/rayabhik/research/libraries/boost_1_51_0/ -I/home/rayabhik/research/libraries/GTL-1.2.4/include/ -I/home/rayabhik/research/libraries/Snap-2.1/ 
