@@ -1,0 +1,5 @@
+1. In order to compile the code the C++ Boost Libraries are needed. After downloading the Boost libraries, edit the Makefile
+with the correct location.
+2. Create a folder called bin/ in the StreamFSM directory 
+and download the gSpan binary (http://www.cs.ucsb.edu/~xyan/software/gSpan.htm) and store it there.
+3. 
