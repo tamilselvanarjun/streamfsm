@@ -1,10 +1,9 @@
 1. In order to compile the code the C++ Boost Libraries are needed. After downloading the Boost libraries, edit the Makefile
 with the correct location.
-2. Create a folder called bin/ in the StreamFSM directory 
-and download the gSpan binary (http://www.cs.ucsb.edu/~xyan/software/gSpan.htm) and store it there.
-3. Create a folder called cur_exp/ in the StreamFSM directory for intermediate files.
-4. You can use the test_driver.py to run the code or use the command:
+2. Download the gSpan binary (http://www.cs.ucsb.edu/~xyan/software/gSpan.htm) and store itin  bin/.
+3. Rename the desired data folder to "data".
+4. You can use the test_driver.py in bin/ to run the code or use the command:
 ./gload <frequency> <u/d> <Max num neighbors> <data_source_name> <gSpan freq>
 5. The frequent subgraphs results for the batches will be in freqfile.graph,
 or in the logs directory if the test_driver.py is used.
-
+6. Clear the cur_exp/ before running StreamFSM.
