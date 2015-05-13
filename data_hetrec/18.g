@@ -1,0 +1,614 @@
+v 990 0 273 18
+v 991 1 james_whale 18
+e 990 991 3 0 18
+e 990 331 4 0 18
+v 992 2 arletta_duncan 18
+e 990 992 4 0 18
+v 993 2 boris_karloff 18
+e 990 993 4 0 18
+v 994 2 colin_clive 18
+e 990 994 4 0 18
+v 995 2 dwight_frye 18
+e 990 995 4 0 18
+v 996 2 edward_van_sloan 18
+e 990 996 4 0 18
+v 997 2 francis_ford 18
+e 990 997 4 0 18
+v 998 2 frederick-kerr 18
+e 990 998 4 0 18
+v 999 2 john_boles 18
+e 990 999 4 0 18
+v 1000 2 mae_clarke 18
+e 990 1000 4 0 18
+v 1001 2 marilyn_harris 18
+e 990 1001 4 0 18
+v 1002 2 michael_mark 18
+e 990 1002 4 0 18
+v 1003 2 pauline_moore 18
+e 990 1003 4 0 18
+v 1004 0 1260 18
+e 1004 135 3 0 18
+v 1005 2 1030998-gustaf_gruendgens 18
+e 1004 1005 4 0 18
+v 1006 2 ellen-widmann 18
+e 1004 1006 4 0 18
+v 1007 2 ernst_stahlnachbaur 18
+e 1004 1007 4 0 18
+v 1008 2 friedrich_gnass 18
+e 1004 1008 4 0 18
+v 1009 2 fritz_odemar 18
+e 1004 1009 4 0 18
+e 1004 137 4 0 18
+e 1004 878 4 0 18
+v 1010 2 gunther-neumann 18
+e 1004 1010 4 0 18
+v 1011 2 gunther_hadank 18
+e 1004 1011 4 0 18
+e 1004 301 4 0 18
+v 1012 2 heinrich_gretler 18
+e 1004 1012 4 0 18
+v 1013 2 hertha_von_walther 18
+e 1004 1013 4 0 18
+v 1014 2 hugo-doblin 18
+e 1004 1014 4 0 18
+e 1004 881 4 0 18
+v 1015 2 inge-landgut 18
+e 1004 1015 4 0 18
+e 1004 303 4 0 18
+v 1016 2 klaus_pohl 18
+e 1004 1016 4 0 18
+v 1017 2 leonard-steckel 18
+e 1004 1017 4 0 18
+v 1018 2 lotte_loebinger 18
+e 1004 1018 4 0 18
+v 1019 2 mathias_franz_stein 18
+e 1004 1019 4 0 18
+v 1020 2 otto_waldis 18
+e 1004 1020 4 0 18
+v 1021 2 otto_wernicke 18
+e 1004 1021 4 0 18
+v 1022 2 paul-kemp 18
+e 1004 1022 4 0 18
+v 1023 2 paul_rehkopf 18
+e 1004 1023 4 0 18
+v 1024 2 peter_lorre 18
+e 1004 1024 4 0 18
+v 1025 2 rolf_wanka 18
+e 1004 1025 4 0 18
+e 1004 890 4 0 18
+v 1026 2 rudolf_blumner 18
+e 1004 1026 4 0 18
+v 1027 2 theo_lingen 18
+e 1004 1027 4 0 18
+e 1004 628 4 0 18
+v 1028 0 1339 18
+e 1028 91 3 0 18
+e 1028 661 4 0 18
+v 1029 2 bela_lugosi 18
+e 1028 1029 4 0 18
+v 1030 2 carmen_guerrero 18
+e 1028 1030 4 0 18
+v 1031 2 charles_gerrard 18
+e 1028 1031 4 0 18
+e 1028 828 4 0 18
+v 1032 2 david_manners 18
+e 1028 1032 4 0 18
+e 1028 995 4 0 18
+v 1033 2 eduardo_arozamena 18
+e 1028 1033 4 0 18
+e 1028 996 4 0 18
+v 1034 2 frances_dade 18
+e 1028 1034 4 0 18
+v 1035 2 helen_chandler 18
+e 1028 1035 4 0 18
+v 1036 2 helga_line 18
+e 1028 1036 4 0 18
+v 1037 2 herbert-bunston 18
+e 1028 1037 4 0 18
+e 1028 415 4 0 18
+v 1038 2 josephine_velez 18
+e 1028 1038 4 0 18
+v 1039 2 lupita_tovar 18
+e 1028 1039 4 0 18
+v 1040 2 manuel-arbo 18
+e 1028 1040 4 0 18
+v 1041 2 michael_visaroff 18
+e 1028 1041 4 0 18
+v 1042 2 moon_carroll 18
+e 1028 1042 4 0 18
+v 1043 2 pablo-alvarez-rubio 18
+e 1028 1043 4 0 18
+v 1044 2 tina_saint 18
+e 1028 1044 4 0 18
+v 1045 2 tony_isbert 18
+e 1028 1045 4 0 18
+v 1046 0 2215 18
+e 1046 455 3 0 18
+v 1047 2 aubrey_dexter 18
+e 1046 1047 4 0 18
+v 1048 2 betty_amann 18
+e 1046 1048 4 0 18
+v 1049 2 elsie_randolph 18
+e 1046 1049 4 0 18
+e 1046 766 4 0 18
+v 1050 2 henry_kendall 18
+e 1046 1050 4 0 18
+e 1046 768 4 0 18
+v 1051 2 percy_marmont 18
+e 1046 1051 4 0 18
+v 1052 0 2216 18
+e 1052 455 3 0 18
+v 1053 2 1011621-j_pat_omalley 18
+e 1052 1053 4 0 18
+v 1054 2 al_checco 18
+e 1052 1054 4 0 18
+v 1055 2 andrew_duggan 18
+e 1052 1055 4 0 18
+v 1056 2 athena_lorde 18
+e 1052 1056 4 0 18
+v 1057 2 brenda_sykes 18
+e 1052 1057 4 0 18
+v 1058 2 burt_mustin 18
+e 1052 1058 4 0 18
+v 1059 2 charles_drake 18
+e 1052 1059 4 0 18
+v 1060 2 cv_france 18
+e 1052 1060 4 0 18
+v 1061 2 don_haggerty 18
+e 1052 1061 4 0 18
+v 1062 2 dora_gregory 18
+e 1052 1062 4 0 18
+v 1063 2 dort_clark 18
+e 1052 1063 4 0 18
+v 1064 2 edmund_gwenn 18
+e 1052 1064 4 0 18
+v 1065 2 edward_asner 18
+e 1052 1065 4 0 18
+e 1052 852 4 0 18
+v 1066 2 forrest_lewis 18
+e 1052 1066 4 0 18
+v 1067 2 frank_lawton 18
+e 1052 1067 4 0 18
+v 1068 2 george_bancroft 18
+e 1052 1068 4 0 18
+v 1069 2 george_tyne 18
+e 1052 1069 4 0 18
+v 1070 2 george_wallace_i 18
+e 1052 1070 4 0 18
+v 1071 2 hari 18
+e 1052 1071 4 0 18
+v 1072 2 helen-haye 18
+e 1052 1072 4 0 18
+v 1073 2 henry_jones 18
+e 1052 1073 4 0 18
+v 1074 2 herbert_ross 18
+e 1052 1074 4 0 18
+v 1075 2 ivor-barnard 18
+e 1052 1075 4 0 18
+v 1076 2 james_garner 18
+e 1052 1076 4 0 18
+v 1077 2 james_mccallion 18
+e 1052 1077 4 0 18
+v 1078 2 jason_wingreen 18
+e 1052 1078 4 0 18
+v 1079 2 jill_esmond 18
+e 1052 1079 4 0 18
+v 1080 2 jim_boles 18
+e 1052 1080 4 0 18
+v 1081 2 joel_fluellen 18
+e 1052 1081 4 0 18
+e 1052 769 4 0 18
+v 1082 2 juanita_moore 18
+e 1052 1082 4 0 18
+v 1083 2 louis_gossett_jr 18
+e 1052 1083 4 0 18
+v 1084 2 napoleon_whiting 18
+e 1052 1084 4 0 18
+v 1085 2 neva_patterson 18
+e 1052 1085 4 0 18
+v 1086 2 paris_earl 18
+e 1052 1086 4 0 18
+v 1087 2 parley_baer 18
+e 1052 1087 4 0 18
+e 1052 700 4 0 18
+v 1088 2 re_jeffrey 18
+e 1052 1088 4 0 18
+v 1089 2 robert_foulk 18
+e 1052 1089 4 0 18
+v 1090 2 robert_stack 18
+e 1052 1090 4 0 18
+v 1091 2 ronald_frankau 18
+e 1052 1091 4 0 18
+v 1092 2 rossano_brazzi 18
+e 1052 1092 4 0 18
+v 1093 2 royal_dano 18
+e 1052 1093 4 0 18
+v 1094 2 susan_clark 18
+e 1052 1094 4 0 18
+v 1095 2 suzanne_pleshette 18
+e 1052 1095 4 0 18
+v 1096 2 tracy_bogart 18
+e 1052 1096 4 0 18
+v 1097 0 2644 18
+e 1097 91 3 0 18
+e 1097 661 4 0 18
+e 1097 1029 4 0 18
+e 1097 1030 4 0 18
+e 1097 1031 4 0 18
+e 1097 828 4 0 18
+e 1097 1032 4 0 18
+e 1097 995 4 0 18
+e 1097 1033 4 0 18
+e 1097 996 4 0 18
+e 1097 1034 4 0 18
+e 1097 1035 4 0 18
+e 1097 1036 4 0 18
+e 1097 1037 4 0 18
+e 1097 415 4 0 18
+e 1097 1038 4 0 18
+e 1097 1039 4 0 18
+e 1097 1040 4 0 18
+e 1097 1041 4 0 18
+e 1097 1042 4 0 18
+e 1097 1043 4 0 18
+e 1097 1044 4 0 18
+e 1097 1045 4 0 18
+v 1098 0 2648 18
+e 1098 991 3 0 18
+e 1098 331 4 0 18
+e 1098 992 4 0 18
+e 1098 993 4 0 18
+e 1098 994 4 0 18
+e 1098 995 4 0 18
+e 1098 996 4 0 18
+e 1098 997 4 0 18
+e 1098 998 4 0 18
+e 1098 999 4 0 18
+e 1098 1000 4 0 18
+e 1098 1001 4 0 18
+e 1098 1002 4 0 18
+e 1098 1003 4 0 18
+v 1099 0 2994 18
+e 1099 100 3 0 18
+e 1099 101 4 0 18
+e 1099 709 4 0 18
+e 1099 476 4 0 18
+e 1099 100 4 0 18
+v 1100 2 eddie_baker 18
+e 1099 1100 4 0 18
+v 1101 2 florence-lee 18
+e 1099 1101 4 0 18
+v 1102 2 hank_mann 18
+e 1099 1102 4 0 18
+v 1103 2 harry_myers 18
+e 1099 1103 4 0 18
+e 1099 107 4 0 18
+v 1104 2 jack_sutherland 18
+e 1099 1104 4 0 18
+v 1105 2 james_donnelly 18
+e 1099 1105 4 0 18
+e 1099 966 4 0 18
+e 1099 110 4 0 18
+e 1099 842 4 0 18
+e 1099 449 4 0 18
+v 1106 2 virginia_cherrill 18
+e 1099 1106 4 0 18
+v 1107 0 3307 18
+e 1107 100 3 0 18
+e 1107 101 4 0 18
+e 1107 709 4 0 18
+e 1107 476 4 0 18
+e 1107 100 4 0 18
+e 1107 1100 4 0 18
+e 1107 1101 4 0 18
+e 1107 1102 4 0 18
+e 1107 1103 4 0 18
+e 1107 107 4 0 18
+e 1107 1104 4 0 18
+e 1107 1105 4 0 18
+e 1107 966 4 0 18
+e 1107 110 4 0 18
+e 1107 842 4 0 18
+e 1107 449 4 0 18
+e 1107 1106 4 0 18
+v 1108 0 5397 18
+v 1109 1 norman_z_mcleod 18
+e 1108 1109 3 0 18
+v 1110 2 1028754-tom_kennedy 18
+e 1108 1110 4 0 18
+v 1111 2 ben-taggart 18
+e 1108 1111 4 0 18
+e 1108 809 4 0 18
+e 1108 1100 4 0 18
+v 1112 2 evelyn_pierce 18
+e 1108 1112 4 0 18
+e 1108 811 4 0 18
+e 1108 812 4 0 18
+v 1113 2 harry_woods 18
+e 1108 1113 4 0 18
+e 1108 815 4 0 18
+v 1114 2 maxine_castle 18
+e 1108 1114 4 0 18
+v 1115 2 otto_h_fries 18
+e 1108 1115 4 0 18
+v 1116 2 rockcliffe_fellowes 18
+e 1108 1116 4 0 18
+v 1117 2 rockliffe_fellowes 18
+e 1108 1117 4 0 18
+v 1118 2 ruth_hall 18
+e 1108 1118 4 0 18
+v 1119 2 thelma_todd 18
+e 1108 1119 4 0 18
+e 1108 819 4 0 18
+v 1120 0 5560 18
+v 1121 1 rene_clair 18
+e 1120 1121 3 0 18
+v 1122 2 andre_michaud 18
+e 1120 1122 4 0 18
+v 1123 2 germaine-aussey 18
+e 1120 1123 4 0 18
+v 1124 2 henri_marchand 18
+e 1120 1124 4 0 18
+v 1125 2 jacques_shelly 18
+e 1120 1125 4 0 18
+v 1126 2 leon_lorin 18
+e 1120 1126 4 0 18
+v 1127 2 paul-ollivier 18
+e 1120 1127 4 0 18
+v 1128 2 raymond_cordy 18
+e 1120 1128 4 0 18
+v 1129 2 rolla-france 18
+e 1120 1129 4 0 18
+v 1130 2 vincent_hyspa 18
+e 1120 1130 4 0 18
+v 1131 2 william_burke 18
+e 1120 1131 4 0 18
+v 1132 0 5599 18
+e 1132 223 3 0 18
+v 1133 2 anne_chevalier 18
+e 1132 1133 4 0 18
+v 1134 2 hitu 18
+e 1132 1134 4 0 18
+v 1135 2 jean 18
+e 1132 1135 4 0 18
+v 1136 2 matahi 18
+e 1132 1136 4 0 18
+v 1137 2 reri_grist 18
+e 1132 1137 4 0 18
+v 1138 0 6665 18
+e 1138 91 3 0 18
+e 1138 661 4 0 18
+e 1138 1029 4 0 18
+e 1138 1030 4 0 18
+e 1138 1031 4 0 18
+e 1138 828 4 0 18
+e 1138 1032 4 0 18
+e 1138 995 4 0 18
+e 1138 1033 4 0 18
+e 1138 996 4 0 18
+e 1138 1034 4 0 18
+e 1138 1035 4 0 18
+e 1138 1036 4 0 18
+e 1138 1037 4 0 18
+e 1138 415 4 0 18
+e 1138 1038 4 0 18
+e 1138 1039 4 0 18
+e 1138 1040 4 0 18
+e 1138 1041 4 0 18
+e 1138 1042 4 0 18
+e 1138 1043 4 0 18
+e 1138 1044 4 0 18
+e 1138 1045 4 0 18
+v 1139 0 7056 18
+v 1140 1 william_wellman 18
+e 1139 1140 3 0 18
+v 1141 2 adele_watson 18
+e 1139 1141 4 0 18
+v 1142 2 ben_hendricks_jr 18
+e 1139 1142 4 0 18
+e 1139 825 4 0 18
+v 1143 2 charles_sullivan 18
+e 1139 1143 4 0 18
+v 1144 2 clark_buddy_burroughs 18
+e 1139 1144 4 0 18
+v 1145 2 donald_cook 18
+e 1139 1145 4 0 18
+v 1146 2 dorothy_gray 18
+e 1139 1146 4 0 18
+v 1147 2 douglas_gerrard 18
+e 1139 1147 4 0 18
+v 1148 2 eddie_kane 18
+e 1139 1148 4 0 18
+v 1149 2 edward_woods 18
+e 1139 1149 4 0 18
+v 1150 2 frank_coghlan_jr 18
+e 1139 1150 4 0 18
+v 1151 2 frankie_darro 18
+e 1139 1151 4 0 18
+v 1152 2 george_daly 18
+e 1139 1152 4 0 18
+e 1139 901 4 0 18
+v 1153 2 james_cagney 18
+e 1139 1153 4 0 18
+e 1139 966 4 0 18
+v 1154 2 joan_blondell 18
+e 1139 1154 4 0 18
+v 1155 2 landers_stevens 18
+e 1139 1155 4 0 18
+e 1139 935 4 0 18
+v 1156 2 leslie_fenton 18
+e 1139 1156 4 0 18
+e 1139 1000 4 0 18
+v 1157 2 mia_marvin 18
+e 1139 1157 4 0 18
+v 1158 2 murray_kinnell 18
+e 1139 1158 4 0 18
+v 1159 2 nanci_price 18
+e 1139 1159 4 0 18
+v 1160 2 public_enemy 18
+e 1139 1160 4 0 18
+v 1161 2 purnell_pratt 18
+e 1139 1161 4 0 18
+v 1162 2 rita_flynn 18
+e 1139 1162 4 0 18
+v 1163 2 robert_e_homans 18
+e 1139 1163 4 0 18
+v 1164 2 robert_e_oconnor 18
+e 1139 1164 4 0 18
+v 1165 2 robert_emmett_oconnor 18
+e 1139 1165 4 0 18
+e 1139 911 4 0 18
+v 1166 2 sam_mcdaniel 18
+e 1139 1166 4 0 18
+e 1139 388 4 0 18
+v 1167 2 william_strauss 18
+e 1139 1167 4 0 18
+v 1168 0 7221 18
+v 1169 1 frank_capra 18
+e 1168 1169 3 0 18
+v 1170 2 1017782-robert_williams 18
+e 1168 1170 4 0 18
+v 1171 2 charles_jordan 18
+e 1168 1171 4 0 18
+v 1172 2 claud_allister 18
+e 1168 1172 4 0 18
+v 1173 2 dick_pritchard 18
+e 1168 1173 4 0 18
+v 1174 2 don_dillaway 18
+e 1168 1174 4 0 18
+v 1175 2 donald_dilloway 18
+e 1168 1175 4 0 18
+v 1176 2 eddy_chandler 18
+e 1168 1176 4 0 18
+e 1168 830 4 0 18
+v 1177 2 hal_price 18
+e 1168 1177 4 0 18
+v 1178 2 halliwell_hobbes 18
+e 1168 1178 4 0 18
+e 1168 965 4 0 18
+e 1168 966 4 0 18
+v 1179 2 loretta_young 18
+e 1168 1179 4 0 18
+v 1180 2 louise_closser_hale 18
+e 1168 1180 4 0 18
+v 1181 2 olaf_hytten 18
+e 1168 1181 4 0 18
+v 1182 2 reginald_owen 18
+e 1168 1182 4 0 18
+v 1183 2 rychard_cramer 18
+e 1168 1183 4 0 18
+e 1168 11 4 0 18
+v 1184 2 walter_catlett 18
+e 1168 1184 4 0 18
+v 1185 2 william_wild_bill_elliott 18
+e 1168 1185 4 0 18
+e 1168 874 4 0 18
+v 1186 0 25773 18
+v 1187 1 mervyn_leroy 18
+e 1186 1187 3 0 18
+v 1188 2 armand_kaliz 18
+e 1186 1188 4 0 18
+e 1186 1142 4 0 18
+v 1189 2 douglas_fairbanks_jr 18
+e 1186 1189 4 0 18
+v 1190 2 edward_g_robinson 18
+e 1186 1190 4 0 18
+v 1191 2 ernie_s_adams 18
+e 1186 1191 4 0 18
+v 1192 2 ferike_boros 18
+e 1186 1192 4 0 18
+e 1186 1152 4 0 18
+v 1193 2 george_e_stone 18
+e 1186 1193 4 0 18
+v 1194 2 glenda_farrell 18
+e 1186 1194 4 0 18
+v 1195 2 kernan_cripps 18
+e 1186 1195 4 0 18
+e 1186 1155 4 0 18
+v 1196 2 larry_steers 18
+e 1186 1196 4 0 18
+v 1197 2 louis_natheaux 18
+e 1186 1197 4 0 18
+e 1186 218 4 0 18
+v 1198 2 maurice_black 18
+e 1186 1198 4 0 18
+v 1199 2 nicholas_bela 18
+e 1186 1199 4 0 18
+v 1200 2 noel_madison 18
+e 1186 1200 4 0 18
+v 1201 2 ralph_ince 18
+e 1186 1201 4 0 18
+v 1202 2 sidney_blackmer 18
+e 1186 1202 4 0 18
+v 1203 2 stanley_fields 18
+e 1186 1203 4 0 18
+v 1204 2 thomas-jackson 18
+e 1186 1204 4 0 18
+v 1205 2 thomas_e_jackson 18
+e 1186 1205 4 0 18
+v 1206 2 william_collier 18
+e 1186 1206 4 0 18
+v 1207 2 william_collier_jr 18
+e 1186 1207 4 0 18
+v 1208 0 25777 18
+e 1208 1109 3 0 18
+e 1208 1110 4 0 18
+e 1208 1111 4 0 18
+e 1208 809 4 0 18
+e 1208 1100 4 0 18
+e 1208 1112 4 0 18
+e 1208 811 4 0 18
+e 1208 812 4 0 18
+e 1208 1113 4 0 18
+e 1208 815 4 0 18
+e 1208 1114 4 0 18
+e 1208 1115 4 0 18
+e 1208 1116 4 0 18
+e 1208 1117 4 0 18
+e 1208 1118 4 0 18
+e 1208 1119 4 0 18
+e 1208 819 4 0 18
+v 1209 0 32345 18
+e 1209 31 3 0 18
+v 1210 2 1006760-helen_hayes 18
+e 1209 1210 4 0 18
+v 1211 2 1021235-richard_bennett 18
+e 1209 1211 4 0 18
+e 1209 1141 4 0 18
+v 1212 2 ae_anson 18
+e 1209 1212 4 0 18
+e 1209 608 4 0 18
+v 1213 2 bert_roach 18
+e 1209 1213 4 0 18
+v 1214 2 beulah_bondi 18
+e 1209 1214 4 0 18
+v 1215 2 bobby_watson 18
+e 1209 1215 4 0 18
+v 1216 2 charlotte_henry 18
+e 1209 1216 4 0 18
+v 1217 2 clarence_brooks 18
+e 1209 1217 4 0 18
+v 1218 2 claude_king 18
+e 1209 1218 4 0 18
+v 1219 2 david_landau 18
+e 1209 1219 4 0 18
+e 1209 865 4 0 18
+v 1220 2 erville_alderson 18
+e 1209 1220 4 0 18
+v 1221 2 florence_britton 18
+e 1209 1221 4 0 18
+e 1209 440 4 0 18
+v 1222 2 john_qualen 18
+e 1209 1222 4 0 18
+v 1223 2 lumsden_hare 18
+e 1209 1223 4 0 18
+v 1224 2 myrna_loy 18
+e 1209 1224 4 0 18
+e 1209 113 4 0 18
+v 1225 2 ronald_colman 18
+e 1209 1225 4 0 18
+v 1226 2 russell_hopton 18
+e 1209 1226 4 0 18
+e 1209 289 4 0 18
+v 1227 2 walter_downing 18
+e 1209 1227 4 0 18

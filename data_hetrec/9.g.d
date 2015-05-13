@@ -1,0 +1,14 @@
+1 edwin_s_porter
+132 daniel_bressanutti
+325 robert_flaherty
+166 robert_wiene
+135 fritz_lang
+15 dw_griffith
+274 dorothy_arzner
+148 herbert_blache
+119 yakov_protazanov
+312 benjamin_christensen
+100 charlie_chaplin
+187 carl_boese
+260 john_s_robertson
+223 fw_murnau
